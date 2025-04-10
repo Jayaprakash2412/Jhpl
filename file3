@@ -3,3 +3,6 @@ devops
 docker
 kubernetes
 maven
+sonarqube
+github
+cicd
