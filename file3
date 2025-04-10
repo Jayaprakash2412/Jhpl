@@ -6,3 +6,5 @@ maven
 sonarqube
 github
 cicd
+jenkins
+terraform
